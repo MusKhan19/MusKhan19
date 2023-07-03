@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.3.1",
+    "popcat-wrapper": "^1.5.5",
+    "schema": "^0.2.1"
+  }
+}
